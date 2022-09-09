@@ -1,4 +1,6 @@
-﻿using MyApp.Mvvm;
+﻿using MyApp.Helpers;
+using MyApp.Mvvm;
+using MyApp.Resources.Translations;
 using MyApp.Services;
 using MyApp.ViewModels;
 using MyApp.Views;
